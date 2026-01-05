@@ -5,11 +5,6 @@
   MSc Data Science & AI Technology @ TU Delft • Former SDE @ Amadeus
 </p>
 
-<p align="left">
-  <a href="mailto:sneha.prashanth234@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/sneha-prashanth-6083a6224/">LinkedIn</a>
-</p>
-
 ---
 
 ## 🙋‍♀️ About Me
