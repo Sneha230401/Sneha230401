@@ -7,8 +7,7 @@
 
 <p align="left">
   <a href="mailto:sneha.prashanth234@gmail.com">Email</a> •
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="YOUR_GITHUB_URL">GitHub</a>
+  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sneha-prashanth-6083a6224/)">LinkedIn</a> •
 </p>
 
 ---
