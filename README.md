@@ -56,14 +56,6 @@ Classifies text (English, Hindi, Hinglish) with emojis into Abusive, Hate Speech
 
 ---
 
-## 📈 GitHub Stats
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sneha230401&show_icons=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Sneha230401" />
-</p>
-
----
-
 ## 🤝 Let’s Connect
 - 📩 sneha.prashanth234@gmail.com
 - 💼 LinkedIn: [Sneha Prashanth](https://www.linkedin.com/in/sneha-prashanth-6083a6224/)
