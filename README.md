@@ -1,8 +1,8 @@
 <!-- Profile README for Sneha Prashanth -->
 
-<h1>Hi there! I'm Sneha</h1>
+<h1>Hi there! I'm Sneha 👋</h1>
 <p align="left">
-  MSc Data Science & AI Technology @ TU Delft • Former SDE @ Amadeus • Data + ML Systems
+  MSc Data Science & AI Technology @ TU Delft • Former SDE @ Amadeus
 </p>
 
 <p align="left">
